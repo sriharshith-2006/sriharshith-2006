@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋, I'm Sriharshith
 
-<!--
-**sriharshith-2006/sriharshith-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Student in Artificial Intelligence & Data Science at IIIT Sri City
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science
+- 💻 Interested in Machine Learning, Deep Learning, and Data Science
+- 🌱 Working with Python, Flask, NumPy, Pandas, and Scikit-learn
+- 📚 Exploring NLP, Computer Vision, and AI applications
+- ⚡ Building beginner-friendly AI and ML projects
+
+---
+
+## 🛠 Skills
+
+### Programming Languages
+- C Language
+- Python
+- Java
+- SQL
+- R 
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,mysql,flask" />
+
+</p>
+
+### Libraries & Frameworks
+- NumPy
+- Pandas
+- Scikit-learn
+- Tensorflow
+- Pytorch
+- Flask
+- Matplotlib
+
+### Tools & Technologies
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+## 📌 Projects
+
+### 📩 Spam vs Ham Classification
+Machine Learning web application using Flask and Scikit-learn to classify spam messages.
+
+### 
+
+---
+
+## 📈 Currently Learning
+
+- Deep Learning
+- Computer Vision
+- NLP
+- Data Analytics
+- Statistics
+- Hypothesis Testing
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/sriharshith-2006
+
+---
