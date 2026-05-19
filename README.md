@@ -21,11 +21,11 @@
 - Python
 - Java
 - SQL
-- R 
+- R
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,vscode,r,pytorch,tensorflow,sklearn,mysql,flask" />
+<img src="https://skillicons.dev/icons?i=c,python,java,r,vscode,pytorch,tensorflow,sklearn,mysql,flask" />
 
 </p>
 
@@ -33,8 +33,8 @@
 - NumPy
 - Pandas
 - Scikit-learn
-- Tensorflow
-- Pytorch
+- TensorFlow
+- PyTorch
 - Flask
 - Matplotlib
 
