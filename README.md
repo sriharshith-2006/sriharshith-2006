@@ -47,11 +47,14 @@
 
 ## 📌 Projects
 
-### Spam vs Ham Classification
+### 📩 Spam vs Ham Classification
+Built a Machine Learning web application using Flask and Scikit-learn to classify SMS messages as spam or ham.
 
-### Loan prediction 
+### 🏦 Loan Prediction System
+Developed a predictive model using Machine Learning algorithms to analyze customer data and predict loan approval status.
 
-### Student Performance Analysis on various factors
+### 📊 Student Performance Analysis
+Performed data analysis on various academic and lifestyle factors affecting student performance using Python, Pandas, and visualization libraries.
 
 ---
 
