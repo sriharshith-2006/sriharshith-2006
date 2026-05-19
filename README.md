@@ -25,7 +25,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,mysql,flask" />
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,R,pytorch,tensorflow,sklearn,mysql,flask" />
 
 </p>
 
@@ -47,10 +47,11 @@
 
 ## 📌 Projects
 
-### 📩 Spam vs Ham Classification
-Machine Learning web application using Flask and Scikit-learn to classify spam messages.
+### Spam vs Ham Classification
 
-### 
+### Loan prediction 
+
+### Student Performance Analysis on various factors
 
 ---
 
