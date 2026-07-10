@@ -28,29 +28,30 @@
 
 ## 🛠 Tech Stack
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,java,r" />
-</p>
-
-### AI / ML / Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-### Backend / APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="130"><b>🧑‍💻 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,python,java,r&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🤖 AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>📊 Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />&nbsp;
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flask,fastapi,mysql&theme=dark" />&nbsp;
+        <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🧰 Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark" /></td>
+  </tr>
+</table>
 
 ---
 
