@@ -8,13 +8,6 @@
 Turning data into insights, models into intelligent systems, and ideas into real-world AI applications 🚀
 </p>
 
-<p align="center">
-<a href="https://github.com/sriharshith-2006">
-<img src="https://img.shields.io/github/followers/sriharshith-2006?style=for-the-badge&color=2ECC71"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=sriharshith-2006&style=for-the-badge&color=2ECC71"/>
-</p>
 
 ---
 
