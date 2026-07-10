@@ -20,23 +20,39 @@ Turning data into insights, models into intelligent systems, and ideas into real
 
 # 🚀 About Me
 
-🎓 B.Tech in **Artificial Intelligence & Data Science** at **IIIT Sri City**
+<table>
+<tr>
+<td width="60">🎓</td>
+<td>B.Tech in <b>Artificial Intelligence & Data Science</b> at <b>IIIT Sri City</b></td>
+</tr>
+<tr>
+<td>💡</td>
+<td>Passionate about solving real-world problems using <b>Machine Learning, Deep Learning, NLP</b> and <b>Data Science</b></td>
+</tr>
+<tr>
+<td>💻</td>
+<td>I enjoy building end-to-end AI applications — from data preprocessing and model training to deployment</td>
+</tr>
+<tr>
+<td>🎯</td>
+<td>Interested in <b>AI Systems</b>, <b>Predictive Analytics</b>, <b>Intelligent Automation</b>, and <b>Data-driven Decision Making</b></td>
+</tr>
+</table>
 
-💡 Passionate about solving real-world problems using **Machine Learning, Deep Learning, NLP and Data Science**
+<br>
 
-🌱 Currently exploring
+### 🌱 Currently Exploring
 
-- Natural Language Processing (NLP)
-- Generative AI
-- Model Deployment
-- MLOps
-- FastAPI
-- Streamlit
-- Docker
-
-💻 I enjoy building end-to-end AI applications—from data preprocessing and model training to deployment.
-
-🎯 Interested in AI Systems, Predictive Analytics, Intelligent Automation, and Data-driven Decision Making.
+<p align="left">
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-2ECC71?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model%20Deployment-F39C12?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
@@ -288,14 +304,6 @@ Performed Exploratory Data Analysis to understand how various academic and lifes
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharshith-2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharshith-2006&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
