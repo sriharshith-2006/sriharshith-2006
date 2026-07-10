@@ -1,254 +1,199 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=2ECC71&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sriharshith;Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+%7C+Data+Science+%7C+Deep+Learning;Building+End-to-End+AI+Applications;Always+Learning+%7C+Always+Building" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:2ECC71,100:0F6B4A&height=200&section=header&text=Hi%20There%2C%20I'm%20Sriharshith%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&desc=B.Tech%20AI%20%26%20Data%20Science%20%40%20IIIT%20Sri%20City%20%7C%20Turning%20data%20into%20decisions%20%F0%9F%9A%80&descSize=16&descAlignY=68&fontAlignY=38&animation=fadeIn" />
 </p>
-
-<h3 align="center">
-Artificial Intelligence & Data Science Student @ IIIT Sri City
-</h3>
 
 <p align="center">
   <a href="https://github.com/sriharshith-2006">
-    <img src="https://img.shields.io/github/followers/sriharshith-2006?style=flat-square&logo=github&label=Followers"/>
+    <img src="https://img.shields.io/github/followers/sriharshith-2006?label=Follow&style=for-the-badge&color=2ECC71" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sriharshith-2006&style=flat-square&color=brightgreen"/>
+  <img src="https://komarev.com/ghpvc/?username=sriharshith-2006&color=2ECC71&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 **B.Tech in Artificial Intelligence & Data Science** at **IIIT Sri City**
-
-I'm passionate about building intelligent systems using **Machine Learning**, **Data Science**, **Deep Learning**, **Natural Language Processing**, and **Generative AI**.
-
-I enjoy taking projects from **data preprocessing and feature engineering** to **model training, evaluation, API development, and deployment**, building complete end-to-end AI applications that solve real-world problems.
-
----
-
-# 🚀 Currently Exploring
-
-- 🤖 Machine Learning
-- 📊 Data Science
-- 🧠 Deep Learning
-- 💬 Natural Language Processing (NLP)
-- ✨ Generative AI
-- 🚀 MLOps
-- 🌐 Model Deployment using FastAPI
-- 🎨 Interactive ML Applications using Streamlit
-- 🐳 Docker & Containerization
-- ⚙️ REST API Development
-- 📈 Feature Engineering
-- 📉 Model Evaluation & Optimization
+- 🎓 Pursuing **B.Tech in Artificial Intelligence and Data Science** at IIIT Sri City
+- 💻 Interested in **Machine Learning, Deep Learning, and Data Science**
+- 🌱 Working with **Python, Flask, FastAPI, NumPy, Pandas, and Scikit-learn**
+- 🔗 Learning to build and consume **REST APIs** for AI-powered applications
+- 📚 Exploring **NLP and AI applications**
+- ⚡ Building beginner-friendly **AI and ML projects**
+- 📫 Reach me at: **GitHub** → [sriharshith-2006](https://github.com/sriharshith-2006)
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## 👨‍💻 Programming Languages
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:0F6B4A&height=3&width=800" />
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,r"/>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/LANGUAGES-2ECC71?style=for-the-badge" /><br><br>
+      <img src="https://skillicons.dev/icons?i=c,python,java,r&theme=dark&perline=4" />
+    </td>
+  </tr>
+  <tr><td><br></td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI%20%2F%20MACHINE%20LEARNING-EE4C2C?style=for-the-badge" /><br><br>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=4" />
+    </td>
+  </tr>
+  <tr><td><br></td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DATA%20%26%20VISUALIZATION-150458?style=for-the-badge" /><br><br>
+      <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark&perline=4" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+    </td>
+  </tr>
+  <tr><td><br></td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/BACKEND%20%26%20APIs-009688?style=for-the-badge" /><br><br>
+      <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql&theme=dark&perline=4" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr><td><br></td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TOOLS%20%26%20WORKFLOW-181717?style=for-the-badge" /><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark&perline=5" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6B4A,100:2ECC71&height=3&width=800" />
 </p>
 
 ---
 
-## 🤖 Machine Learning & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🌐 Backend & Deployment
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,docker"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🛠 Development Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
-
-</p>
-
----
-
-# ⭐ Featured Projects
+## 📌 Featured Projects
 
 <table>
-
-<tr>
-
-<td width="50%">
-
-## 🏏 IPL Match Outcome Prediction System
-
-End-to-end Machine Learning application that predicts the **match winner before the game** and estimates **live win probabilities during the second innings**.
-
-### Highlights
-
-- 🏆 Match Winner Prediction
-- 📈 Live Win Probability Prediction
-- 🧩 Feature Engineering
-- 🌳 Random Forest Models
-- ⚡ FastAPI REST APIs
-- 🎨 Streamlit Dashboard
-- 🐳 Docker Deployment
-
-### Tech Stack
-
-Python • Scikit-learn • Pandas • FastAPI • Streamlit • Docker
-
-</td>
-
-<td width="50%">
-
-## 🔤 Multi-Script Detection & Classification
-
-Deep Learning project for detecting and classifying multiple Indian language scripts from natural scene images using Faster R-CNN.
-
-### Highlights
-
-- Faster R-CNN
-- Region Proposal Network
-- Bounding Box Regression
-- IoU Evaluation
-- Non-Maximum Suppression
-- Multi-Class Classification
-
-### Tech Stack
-
-PyTorch • TorchVision • OpenCV
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📩 Spam vs Ham Classification
-
-Natural Language Processing project that classifies SMS messages as Spam or Ham using TF-IDF vectorization and Machine Learning.
-
-### Highlights
-
-- Text Preprocessing
-- TF-IDF
-- Model Comparison
-- Flask Deployment
-
-### Tech Stack
-
-Python • Scikit-learn • Flask
-
-</td>
-
-<td width="50%">
-
-## 🏦 Loan Prediction System
-
-Machine Learning application that predicts loan approval based on applicant information.
-
-### Highlights
-
-- Data Cleaning
-- Feature Engineering
-- Classification Models
-- Model Evaluation
-
-### Tech Stack
-
-Python • Pandas • Scikit-learn
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-## 📊 Student Performance Analysis
-
-Exploratory Data Analysis project investigating how academic and lifestyle factors influence student performance using statistical analysis and visualizations.
-
-### Tech Stack
-
-Python • Pandas • Matplotlib
-
-</td>
-
-</tr>
-
+  <tr>
+    <td width="50%">
+      <h3>🏏 IPL Match Winner & Live Win Prediction</h3>
+      <p>
+        End-to-end Machine Learning web application that predicts the <b>match winner before the match</b>
+        and provides <b>live win probability during the second innings</b>.
+        Involved extensive feature engineering (venue, toss, run rate, wickets-in-hand),
+        preprocessing pipelines, and ensemble learning models, all served through
+        FastAPI REST APIs with a Streamlit frontend and Docker for containerized deployment.
+      </p>
+      <b>Key Features:</b>
+      <ul>
+        <li>🏆 Match Winner Prediction</li>
+        <li>📈 Live Win Probability Prediction</li>
+        <li>⚡ FastAPI REST APIs</li>
+        <li>🎨 Interactive Streamlit Dashboard</li>
+        <li>🐳 Dockerized Application</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>🔤 Multi-Script Detection and Classification</h3>
+      <p>
+        Object detection system built on <b>Faster R-CNN with a ResNet backbone</b> to
+        localize and classify text regions across multiple Indian language scripts in
+        natural scene images. Focused on region proposal generation, bounding-box
+        localization, and classification, with <b>IoU (Intersection over Union)</b>
+        used to evaluate localization accuracy and <b>NMS (Non-Maximum Suppression)</b>
+        applied to filter overlapping proposals and retain the most confident detections.
+      </p>
+      <b>Key Concepts:</b>
+      <ul>
+        <li>🎯 Region Proposal Network</li>
+        <li>📐 Localization via IoU</li>
+        <li>🧹 Non-Maximum Suppression (NMS)</li>
+        <li>🏷️ Multi-class Script Classification</li>
+      </ul>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Faster%20R--CNN-ResNet-4B8BBE?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📩 Spam vs Ham Classification</h3>
+      <p>
+        NLP-based text classification system that flags SMS messages as Spam or Ham.
+        Involved text cleaning and tokenization, TF-IDF feature extraction, and
+        training/comparing multiple <b>Scikit-learn</b> classifiers, wrapped in a
+        lightweight <b>Flask</b> web app for real-time predictions.
+      </p>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>🏦 Loan Prediction System</h3>
+      <p>
+        Supervised Machine Learning application that predicts loan approval status
+        from applicant details such as income, credit history, and loan amount.
+        Covered missing-value handling, encoding categorical features, and comparing
+        classification algorithms to pick the best-performing model.
+      </p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3>📊 Student Performance Analysis</h3>
+      <p>
+        Exploratory Data Analysis project studying how academic and lifestyle factors
+        (study hours, attendance, sleep, extracurriculars) correlate with student
+        performance. Used Pandas for data wrangling and Matplotlib/Seaborn-style
+        visualizations to surface trends and actionable insights.
+      </p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sriharshith-2006&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sriharshith-2006&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharshith-2006&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
+## 📈 Currently Learning
 
 <p align="left">
-
-<a href="https://github.com/sriharshith-2006">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-green?style=for-the-badge" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-
-⭐️ <b>Thanks for visiting my profile!</b>
-
-<br>
-
-<i>Always Learning • Always Building • Always Improving 🚀</i>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sriharshith-2006&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sriharshith-2006&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharshith-2006&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/sriharshith-2006" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/sriharshith-2006">Sriharshith</a> — keep building, keep learning!</p>
