@@ -2,7 +2,11 @@
 <h3 align="center">B.Tech Student in Artificial Intelligence & Data Science @ IIIT Sri City</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+AI+Powered+Web+Apps;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-2ECC71?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning%20%7C%20NLP%20%7C%20CV-2ECC71?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+<p align="center">
+  <i>Turning data into decisions, one model at a time 🚀</i>
 </p>
 
 <p align="center">
@@ -59,30 +63,57 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>📩 Spam vs Ham Classification</h3>
-      <p>ML web app using <b>Flask</b> and <b>Scikit-learn</b> to classify SMS messages as spam or ham.</p>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <h3>🏏 IPL Match Winner & Live Win Prediction</h3>
+      <p>
+        End-to-end Machine Learning web application that predicts the <b>match winner before the match</b>
+        and provides <b>live win probability during the second innings</b>.
+        Built using feature engineering, preprocessing pipelines, ensemble learning,
+        FastAPI REST APIs, Streamlit frontend, and Docker for containerized deployment.
+      </p>
+      <b>Key Features:</b>
+      <ul>
+        <li>🏆 Match Winner Prediction</li>
+        <li>📈 Live Win Probability Prediction</li>
+        <li>⚡ FastAPI REST APIs</li>
+        <li>🎨 Interactive Streamlit Dashboard</li>
+        <li>🐳 Dockerized Application</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
     <td width="50%">
-      <h3>🏦 Loan Prediction System</h3>
-      <p>Predictive model analyzing customer data to determine loan approval status.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <h3>📩 Spam vs Ham Classification</h3>
+      <p>
+        Machine Learning web application built using <b>Flask</b> and
+        <b>Scikit-learn</b> to classify SMS messages as Spam or Ham using
+        Natural Language Processing techniques.
+      </p>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📊 Student Performance Analysis</h3>
-      <p>Data analysis on academic & lifestyle factors affecting student performance.</p>
+      <h3>🏦 Loan Prediction System</h3>
+      <p>
+        Supervised Machine Learning application that predicts loan approval
+        based on applicant information using data preprocessing,
+        feature engineering and classification algorithms.
+      </p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
     </td>
     <td width="50%">
-      <h3>🚧 More Coming Soon</h3>
-      <p>Currently building projects with <b>FastAPI</b> and <b>PyTorch</b> — stay tuned!</p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <h3>📊 Student Performance Analysis</h3>
+      <p>
+        Exploratory Data Analysis project that analyzes academic and lifestyle
+        factors influencing student performance using Pandas and Matplotlib.
+      </p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
     </td>
   </tr>
 </table>
