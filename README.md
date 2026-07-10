@@ -2,11 +2,7 @@
 <h3 align="center">B.Tech Student in Artificial Intelligence & Data Science @ IIIT Sri City</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-2ECC71?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning%20%7C%20NLP%20%7C%20CV-2ECC71?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-<p align="center">
-  <i>Turning data into decisions, one model at a time 🚀</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:0F6B4A&height=160&section=header&text=Sriharshith&fontSize=45&fontColor=ffffff&desc=Turning%20data%20into%20decisions%2C%20one%20model%20at%20a%20time%20%F0%9F%9A%80&descAlignY=62&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -24,7 +20,7 @@
 - 💻 Interested in **Machine Learning, Deep Learning, and Data Science**
 - 🌱 Working with **Python, Flask, FastAPI, NumPy, Pandas, and Scikit-learn**
 - 🔗 Learning to build and consume **REST APIs** for AI-powered applications
-- 📚 Exploring **NLP, Computer Vision, and AI applications**
+- 📚 Exploring **NLP and AI applications**
 - ⚡ Building beginner-friendly **AI and ML projects**
 - 📫 Reach me at: **GitHub** → [sriharshith-2006](https://github.com/sriharshith-2006)
 
@@ -67,8 +63,9 @@
       <p>
         End-to-end Machine Learning web application that predicts the <b>match winner before the match</b>
         and provides <b>live win probability during the second innings</b>.
-        Built using feature engineering, preprocessing pipelines, ensemble learning,
-        FastAPI REST APIs, Streamlit frontend, and Docker for containerized deployment.
+        Involved extensive feature engineering (venue, toss, run rate, wickets-in-hand),
+        preprocessing pipelines, and ensemble learning models, all served through
+        FastAPI REST APIs with a Streamlit frontend and Docker for containerized deployment.
       </p>
       <b>Key Features:</b>
       <ul>
@@ -85,32 +82,59 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
     <td width="50%">
-      <h3>📩 Spam vs Ham Classification</h3>
+      <h3>🔤 Multi-Script Detection and Classification</h3>
       <p>
-        Machine Learning web application built using <b>Flask</b> and
-        <b>Scikit-learn</b> to classify SMS messages as Spam or Ham using
-        Natural Language Processing techniques.
+        Object detection system built on <b>Faster R-CNN with a ResNet backbone</b> to
+        localize and classify text regions across multiple Indian language scripts in
+        natural scene images. Focused on region proposal generation, bounding-box
+        localization, and classification, with <b>IoU (Intersection over Union)</b>
+        used to evaluate localization accuracy and <b>NMS (Non-Maximum Suppression)</b>
+        applied to filter overlapping proposals and retain the most confident detections.
       </p>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <b>Key Concepts:</b>
+      <ul>
+        <li>🎯 Region Proposal Network</li>
+        <li>📐 Localization via IoU</li>
+        <li>🧹 Non-Maximum Suppression (NMS)</li>
+        <li>🏷️ Multi-class Script Classification</li>
+      </ul>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Faster%20R--CNN-ResNet-4B8BBE?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
+      <h3>📩 Spam vs Ham Classification</h3>
+      <p>
+        NLP-based text classification system that flags SMS messages as Spam or Ham.
+        Involved text cleaning and tokenization, TF-IDF feature extraction, and
+        training/comparing multiple <b>Scikit-learn</b> classifiers, wrapped in a
+        lightweight <b>Flask</b> web app for real-time predictions.
+      </p>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    </td>
+    <td width="50%">
       <h3>🏦 Loan Prediction System</h3>
       <p>
-        Supervised Machine Learning application that predicts loan approval
-        based on applicant information using data preprocessing,
-        feature engineering and classification algorithms.
+        Supervised Machine Learning application that predicts loan approval status
+        from applicant details such as income, credit history, and loan amount.
+        Covered missing-value handling, encoding categorical features, and comparing
+        classification algorithms to pick the best-performing model.
       </p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
       <h3>📊 Student Performance Analysis</h3>
       <p>
-        Exploratory Data Analysis project that analyzes academic and lifestyle
-        factors influencing student performance using Pandas and Matplotlib.
+        Exploratory Data Analysis project studying how academic and lifestyle factors
+        (study hours, attendance, sleep, extracurriculars) correlate with student
+        performance. Used Pandas for data wrangling and Matplotlib/Seaborn-style
+        visualizations to surface trends and actionable insights.
       </p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
@@ -124,7 +148,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hypothesis%20Testing-green?style=for-the-badge" />
