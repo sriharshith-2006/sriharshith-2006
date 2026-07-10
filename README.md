@@ -157,19 +157,13 @@ End-to-end Machine Learning application that predicts
 
 ### Tech Used
 
-`Python`
-
-`Scikit-learn`
-
-`FastAPI`
-
-`Streamlit`
-
-`Docker`
-
-`Pandas`
-
-`NumPy`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </td>
 
@@ -189,13 +183,10 @@ Deep Learning project for detecting and classifying multiple Indian language scr
 
 ### Tech Used
 
-`PyTorch`
-
-`Torchvision`
-
-`Python`
-
-`OpenCV`
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </td>
 
@@ -219,13 +210,10 @@ Built an NLP model that classifies SMS messages as Spam or Ham.
 
 ### Tech Used
 
-`Python`
-
-`Scikit-learn`
-
-`Flask`
-
-`NLP`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
 </td>
 
@@ -244,11 +232,9 @@ Machine Learning project for predicting loan approval based on applicant informa
 
 ### Tech Used
 
-`Python`
-
-`Pandas`
-
-`Scikit-learn`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </td>
 
@@ -272,11 +258,9 @@ Performed Exploratory Data Analysis to understand how various academic and lifes
 
 ### Tech Used
 
-`Python`
-
-`Pandas`
-
-`Matplotlib`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 </td>
 
@@ -290,6 +274,7 @@ Performed Exploratory Data Analysis to understand how various academic and lifes
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sriharshith-2006&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </p>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -305,6 +290,7 @@ Performed Exploratory Data Analysis to understand how various academic and lifes
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharshith-2006&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -312,6 +298,7 @@ Performed Exploratory Data Analysis to understand how various academic and lifes
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharshith-2006&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
 ## 🤝 Connect With Me
 
 <p align="center">
