@@ -26,8 +26,6 @@ Turning data into insights, models into intelligent systems, and ideas into real
 
 🌱 Currently exploring
 
-- Machine Learning
-- Deep Learning
 - Natural Language Processing (NLP)
 - Generative AI
 - Model Deployment
