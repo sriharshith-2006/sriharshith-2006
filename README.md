@@ -4,10 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Sriharshith</h1>
 
-<h3 align="center">
-AI & Data Science Student • Machine Learning Enthusiast • Building Intelligent Applications
-</h3>
-
 <p align="center">
 Turning data into insights, models into intelligent systems, and ideas into real-world AI applications 🚀
 </p>
