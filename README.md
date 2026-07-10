@@ -8,7 +8,6 @@
 Turning data into insights, models into intelligent systems, and ideas into real-world AI applications 🚀
 </p>
 
-
 ---
 
 # 🚀 About Me
