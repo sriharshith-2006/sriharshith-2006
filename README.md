@@ -1,15 +1,12 @@
-<h1 align="center">Hi there, I'm Sriharshith 👋</h1>
-<h3 align="center">B.Tech Student in Artificial Intelligence & Data Science @ IIIT Sri City</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:0F6B4A&height=160&section=header&text=Sriharshith&fontSize=45&fontColor=ffffff&desc=Turning%20data%20into%20decisions%2C%20one%20model%20at%20a%20time%20%F0%9F%9A%80&descAlignY=62&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:2ECC71,100:0F6B4A&height=200&section=header&text=Hi%20There%2C%20I'm%20Sriharshith%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&desc=B.Tech%20AI%20%26%20Data%20Science%20%40%20IIIT%20Sri%20City%20%7C%20Turning%20data%20into%20decisions%20%F0%9F%9A%80&descSize=16&descAlignY=68&fontAlignY=38&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sriharshith-2006">
-    <img src="https://img.shields.io/github/followers/sriharshith-2006?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/sriharshith-2006?label=Follow&style=for-the-badge&color=2ECC71" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sriharshith-2006&color=2ECC71&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sriharshith-2006&color=2ECC71&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -28,30 +25,52 @@
 
 ## 🛠 Tech Stack
 
-<table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ECC71,100:0F6B4A&height=3&width=800" />
+</p>
+
+<table align="center">
   <tr>
-    <td valign="top" width="130"><b>🧑‍💻 Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=c,python,java,r&theme=dark" /></td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/LANGUAGES-2ECC71?style=for-the-badge" /><br><br>
+      <img src="https://skillicons.dev/icons?i=c,python,java,r&theme=dark&perline=4" />
+    </td>
   </tr>
+  <tr><td><br></td></tr>
   <tr>
-    <td valign="top"><b>🤖 AI / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI%20%2F%20MACHINE%20LEARNING-EE4C2C?style=for-the-badge" /><br><br>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=4" />
+    </td>
   </tr>
+  <tr><td><br></td></tr>
   <tr>
-    <td valign="top"><b>📊 Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />&nbsp;
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" /></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DATA%20%26%20VISUALIZATION-150458?style=for-the-badge" /><br><br>
+      <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark&perline=4" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+    </td>
   </tr>
+  <tr><td><br></td></tr>
   <tr>
-    <td valign="top"><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flask,fastapi,mysql&theme=dark" />&nbsp;
-        <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/BACKEND%20%26%20APIs-009688?style=for-the-badge" /><br><br>
+      <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql&theme=dark&perline=4" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
   </tr>
+  <tr><td><br></td></tr>
   <tr>
-    <td valign="top"><b>🧰 Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark" /></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TOOLS%20%26%20WORKFLOW-181717?style=for-the-badge" /><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark&perline=5" />
+    </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6B4A,100:2ECC71&height=3&width=800" />
+</p>
 
 ---
 
