@@ -43,16 +43,29 @@ Turning data into insights, models into intelligent systems, and ideas into real
 
 ### 🌱 Currently Exploring
 
-<p align="left">
-  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-2ECC71?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model%20Deployment-F39C12?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<table>
+<tr>
+<td>💬</td><td><b>Natural Language Processing (NLP)</b> — understanding and processing human language</td>
+</tr>
+<tr>
+<td>✨</td><td><b>Generative AI</b> — exploring LLMs and generative model architectures</td>
+</tr>
+<tr>
+<td>🚀</td><td><b>MLOps</b> — model versioning, monitoring, and production pipelines</td>
+</tr>
+<tr>
+<td>📦</td><td><b>Model Deployment</b> — taking trained models from notebook to production</td>
+</tr>
+<tr>
+<td>⚡</td><td><b>FastAPI</b> — building fast, async REST APIs for ML services</td>
+</tr>
+<tr>
+<td>🎨</td><td><b>Streamlit</b> — building interactive dashboards for ML applications</td>
+</tr>
+<tr>
+<td>🐳</td><td><b>Docker</b> — containerizing applications for consistent deployment</td>
+</tr>
+</table>
 
 ---
 
@@ -163,7 +176,7 @@ Turning data into insights, models into intelligent systems, and ideas into real
 
 ## 🏏 IPL Match Winner & Live Win Prediction
 
-End-to-end Machine Learning application that predicts
+An end-to-end Machine Learning system built around IPL match data, combining a **pre-match winner predictor** with a **live win-probability engine** that updates as the second innings unfolds. The pipeline starts with cleaning historical match and ball-by-ball data, then engineers features like venue advantage, toss impact, head-to-head record, current run rate, required run rate, and wickets-in-hand. These features feed into trained classification models whose outputs are served through a FastAPI backend and visualized on an interactive Streamlit dashboard, with the whole stack containerized using Docker for consistent, portable deployment.
 
 - 🏆 Match Winner Prediction
 - 📈 Live Win Probability Prediction
@@ -187,9 +200,7 @@ End-to-end Machine Learning application that predicts
 
 ## 🔤 Multi-Script Detection & Classification
 
-Deep Learning project for detecting and classifying multiple Indian language scripts using **Faster R-CNN**.
-
-### Features
+A Deep Learning object-detection system that locates and classifies text written in multiple Indian language scripts within natural scene images. Built on **Faster R-CNN with a ResNet backbone**, the model uses a Region Proposal Network to generate candidate text regions, followed by bounding-box regression to tighten those regions around the actual text. Localization quality was measured using **IoU (Intersection over Union)**, and **Non-Maximum Suppression** was applied to eliminate overlapping, low-confidence proposals so only the most accurate detections remain. The final stage classifies each detected region into its corresponding script class.
 
 - 🎯 Faster R-CNN
 - 📐 Bounding Box Regression
@@ -214,9 +225,7 @@ Deep Learning project for detecting and classifying multiple Indian language scr
 
 ## 📩 Spam Detection using NLP
 
-Built an NLP model that classifies SMS messages as Spam or Ham.
-
-### Features
+A Natural Language Processing project that classifies SMS messages as Spam or Ham in real time. The pipeline cleans and tokenizes raw text, removes stopwords, and converts messages into numerical features using **TF-IDF vectorization**. Multiple classification algorithms were trained and compared to select the best-performing model based on precision and recall, since minimizing false positives (flagging real messages as spam) mattered as much as catching actual spam. The final model is served through a lightweight **Flask** web app for instant predictions.
 
 - Text Cleaning
 - Tokenization
@@ -237,9 +246,7 @@ Built an NLP model that classifies SMS messages as Spam or Ham.
 
 ## 🏦 Loan Approval Prediction
 
-Machine Learning project for predicting loan approval based on applicant information.
-
-### Features
+A supervised Machine Learning project that predicts whether a loan application will be approved based on applicant details such as income, credit history, employment status, and loan amount. The workflow involved handling missing values, encoding categorical variables, and engineering derived features (like income-to-loan ratio) before training and comparing multiple classification algorithms. Model performance was evaluated using accuracy, precision, and recall to ensure the final model generalizes well to unseen applicants.
 
 - Data Cleaning
 - Feature Engineering
@@ -262,9 +269,7 @@ Machine Learning project for predicting loan approval based on applicant informa
 
 ## 📊 Student Performance Analysis
 
-Performed Exploratory Data Analysis to understand how various academic and lifestyle factors influence student performance.
-
-### Covered
+An Exploratory Data Analysis project investigating how academic and lifestyle factors — study hours, attendance, sleep patterns, and extracurricular involvement — influence student performance. The analysis involved cleaning raw survey/academic data, engineering comparable features, and running correlation analysis to identify which factors had the strongest relationship with outcomes. Findings were communicated through visualizations that highlight trends not obvious from the raw numbers alone, turning the dataset into actionable insights.
 
 - Data Cleaning
 - Feature Analysis
