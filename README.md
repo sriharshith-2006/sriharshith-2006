@@ -20,52 +20,25 @@ Turning data into insights, models into intelligent systems, and ideas into real
 
 # 🚀 About Me
 
-<table>
-<tr>
-<td width="60">🎓</td>
-<td>B.Tech in <b>Artificial Intelligence & Data Science</b> at <b>IIIT Sri City</b></td>
-</tr>
-<tr>
-<td>💡</td>
-<td>Passionate about solving real-world problems using <b>Machine Learning, Deep Learning, NLP</b> and <b>Data Science</b></td>
-</tr>
-<tr>
-<td>💻</td>
-<td>I enjoy building end-to-end AI applications — from data preprocessing and model training to deployment</td>
-</tr>
-<tr>
-<td>🎯</td>
-<td>Interested in <b>AI Systems</b>, <b>Predictive Analytics</b>, <b>Intelligent Automation</b>, and <b>Data-driven Decision Making</b></td>
-</tr>
-</table>
+🎓 B.Tech in **Artificial Intelligence & Data Science** at **IIIT Sri City**
+
+💡 Passionate about solving real-world problems using **Machine Learning, Deep Learning, NLP** and **Data Science**
+
+💻 Building end-to-end AI applications — from data preprocessing and model training to deployment
+
+🎯 Interested in **AI Systems**, **Predictive Analytics**, **Intelligent Automation**, and **Data-driven Decision Making**
 
 <br>
 
 ### 🌱 Currently Exploring
 
-<table>
-<tr>
-<td>💬</td><td><b>Natural Language Processing (NLP)</b> — understanding and processing human language</td>
-</tr>
-<tr>
-<td>✨</td><td><b>Generative AI</b> — exploring LLMs and generative model architectures</td>
-</tr>
-<tr>
-<td>🚀</td><td><b>MLOps</b> — model versioning, monitoring, and production pipelines</td>
-</tr>
-<tr>
-<td>📦</td><td><b>Model Deployment</b> — taking trained models from notebook to production</td>
-</tr>
-<tr>
-<td>⚡</td><td><b>FastAPI</b> — building fast, async REST APIs for ML services</td>
-</tr>
-<tr>
-<td>🎨</td><td><b>Streamlit</b> — building interactive dashboards for ML applications</td>
-</tr>
-<tr>
-<td>🐳</td><td><b>Docker</b> — containerizing applications for consistent deployment</td>
-</tr>
-</table>
+- 💬 Natural Language Processing (NLP)
+- ✨ Generative AI
+- 🚀 MLOps
+- 📦 Model Deployment
+- ⚡ FastAPI
+- 🎨 Streamlit
+- 🐳 Docker
 
 ---
 
@@ -176,7 +149,7 @@ Turning data into insights, models into intelligent systems, and ideas into real
 
 ## 🏏 IPL Match Winner & Live Win Prediction
 
-An end-to-end Machine Learning system built around IPL match data, combining a **pre-match winner predictor** with a **live win-probability engine** that updates as the second innings unfolds. The pipeline starts with cleaning historical match and ball-by-ball data, then engineers features like venue advantage, toss impact, head-to-head record, current run rate, required run rate, and wickets-in-hand. These features feed into trained classification models whose outputs are served through a FastAPI backend and visualized on an interactive Streamlit dashboard, with the whole stack containerized using Docker for consistent, portable deployment.
+End-to-end ML system that predicts the **pre-match winner** and a **live win probability** during the second innings. Uses engineered features like venue, toss, run rate, and wickets-in-hand, served via FastAPI and visualized on a Streamlit dashboard, containerized with Docker.
 
 - 🏆 Match Winner Prediction
 - 📈 Live Win Probability Prediction
@@ -200,7 +173,7 @@ An end-to-end Machine Learning system built around IPL match data, combining a *
 
 ## 🔤 Multi-Script Detection & Classification
 
-A Deep Learning object-detection system that locates and classifies text written in multiple Indian language scripts within natural scene images. Built on **Faster R-CNN with a ResNet backbone**, the model uses a Region Proposal Network to generate candidate text regions, followed by bounding-box regression to tighten those regions around the actual text. Localization quality was measured using **IoU (Intersection over Union)**, and **Non-Maximum Suppression** was applied to eliminate overlapping, low-confidence proposals so only the most accurate detections remain. The final stage classifies each detected region into its corresponding script class.
+Deep Learning object-detection system that locates and classifies text from multiple Indian language scripts in scene images. Built on **Faster R-CNN with a ResNet backbone**, using region proposals and bounding-box regression, with **IoU** for localization accuracy and **NMS** to filter overlapping detections.
 
 - 🎯 Faster R-CNN
 - 📐 Bounding Box Regression
@@ -225,7 +198,7 @@ A Deep Learning object-detection system that locates and classifies text written
 
 ## 📩 Spam Detection using NLP
 
-A Natural Language Processing project that classifies SMS messages as Spam or Ham in real time. The pipeline cleans and tokenizes raw text, removes stopwords, and converts messages into numerical features using **TF-IDF vectorization**. Multiple classification algorithms were trained and compared to select the best-performing model based on precision and recall, since minimizing false positives (flagging real messages as spam) mattered as much as catching actual spam. The final model is served through a lightweight **Flask** web app for instant predictions.
+NLP project that classifies SMS messages as Spam or Ham in real time. Cleans and tokenizes raw text, converts it to features using **TF-IDF**, and compares multiple classifiers for the best precision/recall trade-off, served through a Flask web app.
 
 - Text Cleaning
 - Tokenization
@@ -320,11 +293,11 @@ An Exploratory Data Analysis project investigating how academic and lifestyle fa
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href=<https://www.linkedin.com/in/janga-sriharshith/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sriharshithjanga@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
