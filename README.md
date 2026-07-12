@@ -188,30 +188,9 @@ Deep Learning object-detection system that locates and classifies text from mult
 
 <td>
 
-## 📩 Spam Detection using NLP
-
-NLP project that classifies SMS messages as Spam or Ham in real time. Cleans and tokenizes raw text, converts it to features using **TF-IDF**, and compares multiple classifiers for the best precision/recall trade-off, served through a Flask web app.
-
-- Text Cleaning
-- Tokenization
-- TF-IDF
-- Classification Models
-- Flask Deployment
-
-### Tech Used
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-</td>
-
-<td>
-
 ## 🏦 Loan Approval Prediction
 
-A supervised Machine Learning project that predicts whether a loan application will be approved based on applicant details such as income, credit history, employment status, and loan amount. The workflow involved handling missing values, encoding categorical variables, and engineering derived features (like income-to-loan ratio) before training and comparing multiple classification algorithms. Model performance was evaluated using accuracy, precision, and recall to ensure the final model generalizes well to unseen applicants.
+A supervised Machine Learning project that predicts whether a loan application will be approved based on applicant details such as income, credit history, employment status, and loan amount. The workflow involved handling missing values, encoding categorical variables and training using classification algorithms. Model performance was evaluated using accuracy, precision, and recall to ensure the final model generalizes well to unseen applicants.
 
 - Data Cleaning
 - Feature Engineering
@@ -234,7 +213,7 @@ A supervised Machine Learning project that predicts whether a loan application w
 
 ## 📊 Student Performance Analysis
 
-An Exploratory Data Analysis project investigating how academic and lifestyle factors — study hours, attendance, sleep patterns, and extracurricular involvement — influence student performance. The analysis involved cleaning raw survey/academic data, engineering comparable features, and running correlation analysis to identify which factors had the strongest relationship with outcomes. Findings were communicated through visualizations that highlight trends not obvious from the raw numbers alone, turning the dataset into actionable insights.
+An Exploratory Data Analysis project investigating how academic and lifestyle factors — study hours, attendance, sleep patterns, and extracurricular involvement — influence student performance. The analysis involved cleaning raw survey/academic data, engineering comparable features,various visualization charts and running correlation analysis to identify which factors had the strongest relationship with outcomes.
 
 - Data Cleaning
 - Feature Analysis
