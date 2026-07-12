@@ -209,7 +209,7 @@ A supervised Machine Learning project that predicts whether a loan application w
 
 <tr>
 
-<td colspan="2">
+<td>
 
 ## 📊 Student Performance Analysis
 
