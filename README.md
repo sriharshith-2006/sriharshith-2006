@@ -186,7 +186,7 @@ Deep Learning object-detection system that locates and classifies text from mult
 
 <tr>
 
-<td>
+<td width="50%">
 
 ## 🏦 Loan Approval Prediction
 
@@ -205,11 +205,7 @@ A supervised Machine Learning project that predicts whether a loan application w
 
 </td>
 
-</tr>
-
-<tr>
-
-<td>
+<td width="50%">
 
 ## 📊 Student Performance Analysis
 
