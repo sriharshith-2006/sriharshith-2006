@@ -102,8 +102,6 @@ End-to-end ML system that predicts the **pre-match winner** and a **live win pro
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-    </td>
-    <td width="50%">
 
 ## 🔤 Multi-Script Detection & Classification
 
@@ -142,8 +140,7 @@ A supervised Machine Learning project that predicts whether a loan application w
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-    </td>
-    <td width="50%">
+
 
 ## 📊 Student Performance Analysis
 
