@@ -36,97 +36,42 @@ Turning data into insights, models into intelligent systems, and ideas into real
 
 # 🛠 Tech Stack
 
-<table align="center">
-
-<tr>
-
-<td valign="top" width="50%">
-
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,r" />
-</p>
-
-</td>
-
-<td valign="top" width="50%">
-
-## 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-## 📊 Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
-
-</p>
-
-</td>
-
-<td valign="top">
-
-## 🌐 Backend & APIs
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql" />
-
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-## 🚀 Deployment & MLOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MLOps-blue?style=for-the-badge"/>
-
-</p>
-
-</td>
-
-<td valign="top">
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda" />
-
-</p>
-
-</td>
-
-</tr>
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,c,r" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>🤖 AI / Machine Learning</h3>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>📊 Data Science</h3>
+      <img src="https://skillicons.dev/icons?i=numpy,pandas" /><br>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
+    </td>
+    <td align="center" valign="top">
+      <h3>🌐 Backend & APIs</h3>
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql" /><br>
+      <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>🚀 Deployment & MLOps</h3>
+      <img src="https://skillicons.dev/icons?i=docker,git,github" /><br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/MLOps-blue?style=for-the-badge"/>
+    </td>
+    <td align="center" valign="top">
+      <h3>🛠 Tools</h3>
+      <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -134,10 +79,8 @@ Turning data into insights, models into intelligent systems, and ideas into real
 # ⭐ Featured Projects
 
 <table>
-
-<tr>
-
-<td width="50%">
+  <tr>
+    <td width="50%">
 
 ## 🏏 IPL Match Winner & Live Win Prediction
 
@@ -159,9 +102,8 @@ End-to-end ML system that predicts the **pre-match winner** and a **live win pro
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-</td>
-
-<td width="50%">
+    </td>
+    <td width="50%">
 
 ## 🔤 Multi-Script Detection & Classification
 
@@ -180,13 +122,10 @@ Deep Learning object-detection system that locates and classifies text from mult
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
 
 ## 🏦 Loan Approval Prediction
 
@@ -203,13 +142,12 @@ A supervised Machine Learning project that predicts whether a loan application w
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-</td>
-
-<td width="50%">
+    </td>
+    <td width="50%">
 
 ## 📊 Student Performance Analysis
 
-An Exploratory Data Analysis project investigating how academic and lifestyle factors — study hours, attendance, sleep patterns, and extracurricular involvement — influence student performance. The analysis involved cleaning raw survey/academic data, engineering comparable features,various visualization charts and running correlation analysis to identify which factors had the strongest relationship with outcomes.
+An Exploratory Data Analysis project investigating how academic and lifestyle factors — study hours, attendance, sleep patterns, and extracurricular involvement — influence student performance. The analysis involved cleaning raw survey/academic data, engineering comparable features, various visualization charts and running correlation analysis to identify which factors had the strongest relationship with outcomes.
 
 - Data Cleaning
 - Feature Analysis
@@ -223,13 +161,12 @@ An Exploratory Data Analysis project investigating how academic and lifestyle fa
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-</td>
-
-</tr>
-
+    </td>
+  </tr>
 </table>
 
 ---
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -239,33 +176,24 @@ An Exploratory Data Analysis project investigating how academic and lifestyle fa
 ## 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sriharshith-2006&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sriharshith-2006&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharshith-2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/sriharshith-2006">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/janga-sriharshith/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:sriharshithjanga@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
