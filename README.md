@@ -120,7 +120,6 @@ Deep Learning object-detection system that locates and classifies text from mult
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-    </td>
   </tr>
   <tr>
     <td width="50%">
@@ -158,7 +157,6 @@ An Exploratory Data Analysis project investigating how academic and lifestyle fa
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-    </td>
   </tr>
 </table>
 
