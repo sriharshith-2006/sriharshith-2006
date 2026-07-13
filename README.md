@@ -78,9 +78,9 @@ Turning data into insights, models into intelligent systems, and ideas into real
 
 # ⭐ Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
 
 ## 🏏 IPL Match Winner & Live Win Prediction
 
@@ -102,6 +102,8 @@ End-to-end ML system that predicts the **pre-match winner** and a **live win pro
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
+  </td>
+    <td width="50%" valign="top">
 
 ## 🔤 Multi-Script Detection & Classification
 
@@ -120,9 +122,10 @@ Deep Learning object-detection system that locates and classifies text from mult
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
+  </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
 
 ## 🏦 Loan Approval Prediction
 
@@ -139,7 +142,8 @@ A supervised Machine Learning project that predicts whether a loan application w
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-
+  </td>
+    <td width="50%" valign="top">
 
 ## 📊 Student Performance Analysis
 
@@ -157,6 +161,7 @@ An Exploratory Data Analysis project investigating how academic and lifestyle fa
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 
+  </td>
   </tr>
 </table>
 
