@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:2ECC71,100:11998e&text=Sriharshith&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20Student%20%40%20IIIT%20Sri%20City&descAlignY=60&descSize=18" />
 </p>
 
-<h1 align="center">Hi 👋,I'm Sriharshith</h1>
+<h1 align="center">Hi 👋 I'm Sriharshith</h1>
 
 <p align="center">
 Turning data into insights, models into intelligent systems, and ideas into real-world AI applications 🚀
